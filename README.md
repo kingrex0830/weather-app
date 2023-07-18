@@ -2,6 +2,8 @@
 
 ## Description
 
+![image](https://github.com/kingrex0830/weather-app/assets/120323086/bcf54e2d-962e-4472-94a4-ac9eca3dd333)
+
 This app is designed to receive the name of a city as text input from a user and display the weather for the current day, as well as weather information for the following 5 days, while also saving previously searched for cities in a list. The last searched city will be inputted by default for the user.
 
 ## Usage
